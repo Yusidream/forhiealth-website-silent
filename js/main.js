@@ -225,7 +225,6 @@ function renderProducts() {
         <div class="card__body">
           <h3>${safe(p.name)}</h3>
           <p>${safe(p.description)}</p>
-          ${p.price ? `<div class="card__price">${p.price}</div>` : ""}
         </div>
       </article>`;
   }).join("");
