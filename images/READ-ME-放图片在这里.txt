@@ -1,0 +1,11 @@
+把你自己的图片放进这个 images 文件夹里。
+
+例如：把一张图命名为  remedial.jpg  放进来，
+然后在  data/services.js  里把对应项目的
+    image: "https://....."
+改成
+    image: "images/remedial.jpg"
+
+建议尺寸：
+- 卡片/项目图：约 800 x 600 像素
+- 顶部横幅大图：约 1600 像素宽（横幅在 css/style.css 里修改）

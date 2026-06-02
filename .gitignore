@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Editor / temp
+*.swp
+*~
+Thumbs.db
+
+# Optional: 你写的原始草稿（如果想一起上传，删掉下面两行）
+data/*.rtf
