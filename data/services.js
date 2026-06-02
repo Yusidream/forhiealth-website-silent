@@ -24,8 +24,7 @@ const SERVICES = [
   },
   {
     name: "Traditional Acupuncture",
-    image:
-      "https://plus.unsplash.com/premium_photo-1661864014725-9d77f571f00a?auto=format&fit=crop&w=900&q=80",
+    image: "images/acupuncture.jpg",
     short: "Time-honoured Chinese medicine to restore natural balance.",
     description:
       "Fine, sterile needles are used to stimulate key points across the " +
@@ -82,8 +81,7 @@ const SERVICES = [
   },
   {
     name: "Reflexology",
-    image:
-      "https://images.unsplash.com/photo-1728497872660-cc6b16238c3a?auto=format&fit=crop&w=900&q=80",
+    image: "images/reflexology.jpg",
     short: "Pressure-point foot therapy for whole-body wellbeing.",
     description:
       "By applying pressure to specific points on the feet, reflexology " +
